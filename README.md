@@ -1,5 +1,5 @@
 # Bryan Lunduke's Software Politics Tracker: Community Edition
-Tracking the political stances of software projects, software foundations, &amp; corporations.
+Tracking the political stances of software projects, software foundations, &amp; corporations. Kinda like the ["Sweet Baby Inc. Detected"](https://store.steampowered.com/curator/44858017-Sweet-Baby-Inc-detected/) of FLOSS.
 
 NOTE: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. But hopefully an archival effort will be made to preserve the original posts.
 
@@ -21,18 +21,26 @@ The following software projects, software foundations, &amp; corporations have m
 | :arrow_left: | **Linux Kernel** | [Creator says he is "one of those 'woke Communists' you worry about"](https://social.kernel.org/notice/AWSTn6aOpeEvSKZ7Wy) |
 | :arrow_left: | **Microsoft-Activision-Blizzard-King** | [Encourages, facilitates, pays for employees to "gender transition" their children](https://x.com/LundukeJournal/status/2018749350134858215), [Conducts "Pronouns in Software" research](https://www.microsoft.com/en-us/research/video/pronouns-in-the-workplace-learning-inclusive-software-design-from-real-world-experiences/), [Provides "Trans" themes for Office](https://unlocked.microsoft.com/pride/), [Promotes Trans Activism in games](https://overwatch.blizzard.com/en-gb/news/24205281/standing-together-and-celebrating-pride/) |
 | :arrow_left: | **NixOS** | [Leadership includes Antifa flag in posts](https://x.com/LundukeJournal/status/1997697480452972817) |
+| :arrow_left: | **node-ipc** | [Sabotage: Code added to popular NPM package wiped files in Russia and Belarus](https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/) |
+| :arrow_left: | **Notepad++** | ["We are with Ukraine"](https://notepad-plus-plus.org/downloads/v8.8.1/), ["in a world of Elon, be a Zelensky"](https://notepad-plus-plus.org/downloads/v8.7.2/), ["Stand with Hong Kong"](https://notepad-plus-plus.org/downloads/v7.9.2/) |
 | :arrow_left: | **openSUSE** | [Leadership says contributors who don't promote Trans Activism are "Rotten Flesh" that need to be "Cut Out"](https://lunduke.locals.com/post/5815715/dont-wave-the-lgbt-flag-suse-opensuse-says-you-are-rotten-flesh) |
 | :arrow_left: | **Red Hat** | [Held anti-White training, DEI hiring quotas](https://x.com/JamesOKeefeIII/status/1734374423124176944), [Spokesperson promotes Antifa](https://x.com/LundukeJournal/status/1997697480452972817), [Prominent employees attack "MAGA/Linux"](https://x.com/LundukeJournal/status/2035426184906105223) |
 | :arrow_left: | **Software Freedom Conservancy** | [Attacks Lunduke as "Fox News of FOSS"](https://x.com/LundukeJournal/status/1962669374331895901) |
+| :arrow_left: | **TypeLevel** | [Killed Scala with management and DEI-enforced tactics](https://typelevel.org/blog/on-recent-events.html), [Code of Conduct](https://typelevel.org/code-of-conduct/) |
 
 ### Non-Woke Software
 The following software projects, foundations, &amp; corporations have made statements (or taken actions) best categorized "Non-Woke", "Non-DEI", and have "Neutral" or "Right Leaning" politics.
 
 | &nbsp; | Software, Foundations and/or Corporations | Notes |
 | - | - | - |
+| :arrow_right: | **Artix Linux** | [Does not use systemd, disputes the "group of neofascist reactionaries" claim](https://forum.artixlinux.org/index.php/topic,8399.msg50340.html#msg50340) |
 | :arrow_right: | **atrim** | [Anti-Code of Conduct file in source tree](https://github.com/roozerxc/atrim/blob/master/CODE-OF-CONDUCT.md), [signed by project maintainer and author](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/244) |
+| :arrow_right: | **CheffKiss** | ["Fully and unconditionally anti-woke, anti-DEI, and anti-AI. Catholically anti-evil"](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/243) |
 | :arrow_right: | **Devuan** | [Accepts everyone, specifically including Conservatives](https://dev1galaxy.org/viewtopic.php?id=17) |
+| :arrow_right: | **Koboldcpp** | [No Code of Conduct in source tree](https://github.com/lostruins/koboldcpp), [requested by yggdrasil75](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/223) |
+| :arrow_right: | **OlympusRepo** | [Sovereign, non-corporate alternative to Git](https://github.com/AiLang-Author/OlympusRepo) |
 | :arrow_right: | **Omarchy Linux** | [Rejected calls for Activist Code of Conduct](https://github.com/basecamp/omarchy/issues/1913), [Often attacked by Trans &amp; Antifa Activists](https://drewdevault.com/blog/Cloudflare-and-fascists/) |
 | :arrow_right: | **OpenMandriva** | ["We don't do DEI"](https://forum.openmandriva.org/t/american-openmandriva-lx-users-happy-independence-day-plus-history/7700) |
 | :arrow_right: | **Redot** | ["Non-Political (non-Woke) Fork" of Godot](https://x.com/LundukeJournal/status/1842335793844539823) |
 | :arrow_right: | **SQLite** | [Code of Ethics includes "Love the Lord God"](https://sqlite.org/codeofethics.html) |
+| :arrow_right: | **Supersonic-Xserver** | [Organization maintains a Laissez-faire policy under mandate, no visible or invisible "Code of Conduct"](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/252) |
