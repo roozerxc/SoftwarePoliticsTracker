@@ -1,4 +1,4 @@
-# Bryan Lunduke's Software Politics Tracker (version 2)
+# Bryan Lunduke's Software Politics Tracker: Community Edition
 Tracking the political stances of software projects, software foundations, &amp; corporations.
 
 NOTE: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. But hopefully an archival effort will be made to preserve the original posts.
