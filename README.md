@@ -1,7 +1,11 @@
 # Bryan Lunduke's Software Politics Tracker: Community Edition
 Tracking the political stances of software projects, software foundations, &amp; corporations. Kinda like the ["Sweet Baby Inc. Detected"](https://store.steampowered.com/curator/44858017-Sweet-Baby-Inc-detected/) of FLOSS.
 
-NOTE: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. But hopefully an archival effort will be made to preserve the original posts.
+Note: This does *not* include statements made by users and average contributors (or employees) of software organizations. Only official actions and statements from the organization itself, or from leadership or official representatives.
+
+Note 2: This is a work in progress. There is a *lot* of data left to add.
+
+Note 3: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. Hopefully, an archival effort will be made to preserve the original posts.
 
 ### Woke / Leftist Software, Foundations and/or Corporations
 The following software projects, software foundations, &amp; corporations have made statements (or taken actions) best categorized as "Woke", "Leftist", or "DEI".
