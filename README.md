@@ -5,7 +5,7 @@ Note: This does *not* include statements made by users and average contributors 
 
 Note 2: This is a work in progress. There is a *lot* of data left to add.
 
-Note 3: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. Hopefully, an archival effort will be made to preserve the original posts.
+Note 3: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private, "Federated" websites which block search scraping, or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. Hopefully, an archival effort will be made to preserve the original posts.
 
 ### Woke / Leftist Software, Foundations and/or Corporations
 The following software projects, software foundations, &amp; corporations have made statements (or taken actions) best categorized as "Woke", "Leftist", or "DEI".
