@@ -39,7 +39,7 @@ The following software projects, foundations, &amp; corporations have made state
 | - | - | - |
 | :arrow_right: | **Artix Linux** | [Does not use systemd, disputes the "group of neofascist reactionaries" claim](https://forum.artixlinux.org/index.php/topic,8399.msg50340.html#msg50340) |
 | :arrow_right: | **atrim** | [Anti-Code of Conduct file in source tree](https://github.com/roozerxc/atrim/blob/master/CODE-OF-CONDUCT.md), [signed by project maintainer and author](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/244) |
-| :arrow_right: | **CheffKiss** | ["Fully and unconditionally anti-woke, anti-DEI, and anti-AI. Catholically anti-evil"](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/243) |
+| :arrow_right: | **ChefKiss** | ["Fully and unconditionally anti-woke, anti-DEI, and anti-AI. Catholically anti-evil"](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/243) |
 | :arrow_right: | **Devuan** | [Accepts everyone, specifically including Conservatives](https://dev1galaxy.org/viewtopic.php?id=17) |
 | :arrow_right: | **Koboldcpp** | [No Code of Conduct in source tree](https://github.com/lostruins/koboldcpp), [requested by yggdrasil75](https://github.com/BryanLunduke/SoftwarePoliticsTracker/issues/223) |
 | :arrow_right: | **OlympusRepo** | [Sovereign, non-corporate alternative to Git](https://github.com/AiLang-Author/OlympusRepo) |
