@@ -12,6 +12,7 @@ The following software projects, software foundations, &amp; corporations have m
 
 | &nbsp; | Software, Foundations and/or Corporations | Notes |
 | - | - | - |
+| :arrow_left: | **AntiX Linux** | ["Proudly anti-fascist antiX Magic"](https://antixlinux.com) |
 | :arrow_left: | **Bazaar** | [Includes only LGBT Theming in Software](https://github.com/kolunmi/bazaar/pull/519) |
 | :arrow_left: | **Bazzite** | [Bans key dev for Code of Conduct Violations](https://x.com/LundukeJournal/status/2016225507923112073), [Promotes degeneracy via transgender &amp; non-binary cartoon mascot targeted at children](https://x.com/bazzite_gg/status/1887913668182163478) |
 | :arrow_left: | **Chimera Linux** | [Dev says: "Here to Further Woke Agenda by Turning Free Software Gay"](https://social.linux.pizza/@chimera@gts.chimera-linux.org/114772074723831079) |
