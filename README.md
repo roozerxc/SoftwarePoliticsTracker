@@ -1,5 +1,5 @@
 # Bryan Lunduke's Software Politics Tracker: Community Edition
-Tracking the political stances of software projects, software foundations, &amp; corporations. Kinda like the ["Sweet Baby Inc. Detected"](https://store.steampowered.com/curator/44858017-Sweet-Baby-Inc-detected/) of FLOSS.
+Tracking the political stances of software projects, software foundations, &amp; corporations individuals. Kinda like the ["Sweet Baby Inc. Detected"](https://store.steampowered.com/curator/44858017-Sweet-Baby-Inc-detected/) of FLOSS.
 
 Note: This does *not* include statements made by users and average contributors (or employees) of software organizations. Only official actions and statements from the organization itself, or from leadership or official representatives.
 
@@ -7,15 +7,16 @@ Note 2: This is a work in progress. There is a *lot* of data left to add.
 
 Note 3: There are some sources I (roozerxc) couldn't find, either because Google is trash, messages are sent through private, "Federated" websites which block search scraping, or via a Discord server (which isn't considered a valid or reliable source), or the original posts have been deleted. Hopefully, an archival effort will be made to preserve the original posts.
 
-### Woke / Leftist Software, Foundations and/or Corporations
+### Woke / Leftist Software, Foundations, Corporations and/or Individuals
 The following software projects, software foundations, &amp; corporations have made statements (or taken actions) best categorized as "Woke", "Leftist", or "DEI".
 
-| &nbsp; | Software, Foundations and/or Corporations | Notes |
+| &nbsp; | Software, Foundations, Corporations and/or Individuals | Notes |
 | - | - | - |
 | :arrow_left: | **antiX Linux** | ["Proudly anti-fascist antiX Magic"](https://antixlinux.com) |
 | :arrow_left: | **Arch Linux** | [Deletes XLibre wiki page citing Code of Conduct; bans critics](https://x.com/LundukeJournal/status/2046303233719914632) |
 | :arrow_left: | **Bazaar** | [Includes only LGBT Theming in Software](https://github.com/kolunmi/bazaar/pull/519) |
 | :arrow_left: | **Bazzite** | [Bans key dev for Code of Conduct Violations](https://x.com/LundukeJournal/status/2016225507923112073), [Promotes degeneracy via transgender &amp; non-binary cartoon mascot targeted at children](https://x.com/bazzite_gg/status/1887913668182163478) |
+| :arrow_left: | **Brennan Kenneth Brown** | [Created "STOP OMARCHY", targeting and boycotting against neutral and center-right wing people](https://stopomarchy.neocities.org/) |
 | :arrow_left: | **Chimera Linux** | [Dev says: "Here to Further Woke Agenda by Turning Free Software Gay"](https://social.linux.pizza/@chimera@gts.chimera-linux.org/114772074723831079) |
 | :arrow_left: | **Codeberg** | [Executive board member: "The mere nature of working on Free and Open source software is political"](https://codeberg.org/Codeberg/Community/issues/2184#issuecomment-7905679) |
 | :arrow_left: | **Debian** | [Discriminates against White Men for internships](https://micronews.debian.org/2024/1728824072.html), [Blocks Conservative projects, calls devs "Nazis"](https://lists.debian.org/debian-project/2025/10/threads.html#00000), [Prominent contributor defaced "Conservative" project wiki, calling them "Nazis"](https://github.com/X11Libre/xserver/wiki/Are-We-XLibre-Yet%3F/6f7a4a149fe9ed0d19eff040c52c926a1426c280), [Elects DEI-focused Project Leader Sruthi Chandran on fewer "(cis)male" platform](https://x.com/LundukeJournal/status/2047391958830604395) |
@@ -27,7 +28,7 @@ The following software projects, software foundations, &amp; corporations have m
 | :arrow_left: | **IBM** | [DOJ $17M settlement over discriminatory DEI policies](https://x.com/LundukeJournal/status/2044069389113176256) |
 | :arrow_left: | **KDE** | [Attacks Conservative Jewish journalist as "Sneaky little Nazis"](https://x.com/LundukeJournal/status/1984351487468638288), [Says X users are Nazis](https://mail.kde.org/pipermail/kde-www/2025-October/009275.html), [Celebrates Pride Month](https://x.com/LundukeJournal/status/1929024728758403187), [Announces non-binary mascot "Kori" (they/them) to preside over Pride Month](https://x.com/LundukeJournal/status/2061769411304788082), [Non-binary mascot framed as a "hatched" child](https://x.com/LundukeJournal/status/2061957835676623014) |
 | :arrow_left: | **Linux Foundation** | [Pledged fealty to the UN](https://unite.un.org/en/news/sixteen-organizations-endorse-un-open-source-principles), [Co-founded Inclusive Naming List of words banned for DEI reasons](https://x.com/LundukeJournal/status/2043720989943476231), [Big Tech purchase of seats pushing woke Leftist discrimination and censorship](https://x.com/LundukeJournal/status/2092689732534775992) |
-| :arrow_left: | **Linux Kernel** | [Creator says he is "one of those 'woke Communists' you worry about"](https://social.kernel.org/notice/AWSTn6aOpeEvSKZ7Wy) |
+| :arrow_left: | **Linux Kernel** | [Creator of the Kernel, Linus Torvalds, says he is "one of those 'woke Communists' you worry about"](https://social.kernel.org/notice/AWSTn6aOpeEvSKZ7Wy) |
 | :arrow_left: | **Microsoft, Activision-Blizzard, King (KBAM)** | [Encourages, facilitates, pays for employees to "gender transition" their children](https://x.com/LundukeJournal/status/2018749350134858215), [Conducts "Pronouns in Software" research](https://www.microsoft.com/en-us/research/video/pronouns-in-the-workplace-learning-inclusive-software-design-from-real-world-experiences/), [Provides "Trans" themes for Office](https://unlocked.microsoft.com/pride/), [Promotes Trans Activism in games](https://overwatch.blizzard.com/en-gb/news/24205281/standing-together-and-celebrating-pride/) |
 | :arrow_left: | **Mozilla** | [Introduces non-binary Firefox mascot "Kit" with "They/Them" pronouns](https://blog.mozilla.org/en/firefox/meet-kit/), [Rebranded as a "Global crew of activists"](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/), [Marxism / LGBTQIA+ activism coverage](https://x.com/LundukeJournal/status/2083945029689651305) |
 | :arrow_left: | **NixOS** | [Leadership includes Antifa flag in posts](https://x.com/LundukeJournal/status/1997697480452972817) |
