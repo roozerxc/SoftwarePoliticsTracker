@@ -1,5 +1,5 @@
 # Bryan Lunduke's Software Politics Tracker: Community Edition
-Tracking the political stances of software projects, software foundations, &amp; corporations individuals. Kinda like the ["Sweet Baby Inc. Detected"](https://store.steampowered.com/curator/44858017-Sweet-Baby-Inc-detected/) of FLOSS.
+Tracking the political stances of software projects, software foundations, corporations &amp; individuals. Kinda like the ["Sweet Baby Inc. Detected"](https://store.steampowered.com/curator/44858017-Sweet-Baby-Inc-detected/) of FLOSS.
 
 Note: This does *not* include statements made by users and average contributors (or employees) of software organizations. Only official actions and statements from the organization itself, or from leadership or official representatives.
 
